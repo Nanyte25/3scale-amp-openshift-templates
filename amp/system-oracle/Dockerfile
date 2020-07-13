@@ -1,4 +1,4 @@
-FROM amp-system:2.8
+FROM amp-system:intentionalplaceholder
 
 USER root
 
